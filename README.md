@@ -25,7 +25,7 @@ El porcentaje de coincidencia hace referencia al porcentaje que ocupan los hosts
 
 ## Github
 
-- [DOPMA](https://github.com/Miguvasg/dopma_netmanager)
+- [DOPMA](https://github.com/Miguvasg/networksummarizer)
 
 ## Desarrollador
 
